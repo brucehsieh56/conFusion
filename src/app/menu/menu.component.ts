@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Dish } from '../shared/dish';
 
-// import service
+// import service (class)
 import { DishService } from '../services/dish.service';
 
 @Component({
